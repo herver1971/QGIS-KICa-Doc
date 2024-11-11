@@ -8,7 +8,7 @@
          - [Contributing Process](#contributing-process)
       + [Prerequisites using Docker Compose](#prerequisites-using-docker-compose)
          - [Contributing Process](#contributing-process-1)
-   * [Review and Acceptance](#review-and-acceptance)
+   * [Review and Acceptance](#review-and-acceptance) 
 
 ----------
 
