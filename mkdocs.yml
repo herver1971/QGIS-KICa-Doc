@@ -5,7 +5,12 @@ nav:
   - instalation.md
   - plugin.md
 
-theme: 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+theme:
   name: 'material'
   logo: assets/images/logo.png
   favicon: assets/images/favicon.png
