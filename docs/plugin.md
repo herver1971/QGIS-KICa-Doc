@@ -24,7 +24,7 @@ The plugin requests the following information to connect to the provider:
   - **Username**
   - **Password**
 
-!!! Note
+!!! note
 
     You can find this information on the UP42 portal > Projects > Developers.
 
